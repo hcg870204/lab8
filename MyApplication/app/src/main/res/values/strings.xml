@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="t1">看到此頁表示成功</string>
+    <string name="t2">啟動service</string>
+</resources>
