@@ -10,7 +10,7 @@ public class MyService extends Service {
             @Override
             public void run() {
                 try {
-                    Thread.sleep(500);
+                    Thread.sleep(5000);
 
                     Intent intent = new Intent(MyService.this,Main2Activity.class);
                     intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
